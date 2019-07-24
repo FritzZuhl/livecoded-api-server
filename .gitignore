@@ -1,3 +1,6 @@
 # Ignore Pycharm configuration
 .idea/
 
+.DS_store
+data/*
+
